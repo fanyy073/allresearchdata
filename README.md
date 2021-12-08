@@ -1,0 +1,2 @@
+# allresearchdata
+This is processed data from different database. We used the China Labor-force Dynamic Survey (CLDS), which is a large-scale continuous nationwide research project planned by Sun Yat-sen University and implemented by the Social Science Survey Center of Sun Yat-sen University. We also used data from China City Statistical Yearbook，and time of AP2013 policy of different cities collected by the author.
